@@ -3,7 +3,7 @@
 <!--
 **HijodeRodriguez/HijodeRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+### Here are some other places where you can know more about me:
 
 - [LinkedIn](https://www.linkedin.com/in/hijoderodriguez/)
 - [Demo-reel](https://vimeo.com/658236155)
