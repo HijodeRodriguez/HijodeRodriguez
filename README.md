@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there, my name is Hijo de Rodríguez 👋
 
 <!--
-**HijodeRodriguez/HijodeRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HijodeRodriguez/HijodeRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
+
+- [LinkedIn](https://www.linkedin.com/in/hijoderodriguez/)
+- [Demo-reel](https://vimeo.com/658236155)
+- [Portfolio](https://www.linkedin.com/in/hijoderodriguez/overlay/1635478471787/single-media-viewer/)
+- [Photo-booK](https://www.flickr.com/photos/luminaartworks/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
