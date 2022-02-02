@@ -12,4 +12,3 @@ My creativity, experience and vision are key factors for the success of the proj
 - [Portfolio](https://www.linkedin.com/in/hijoderodriguez/overlay/1635478471787/single-media-viewer/)
 - [Photo-booK](https://www.flickr.com/photos/luminaartworks/)
 
--->
