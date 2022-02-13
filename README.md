@@ -4,7 +4,7 @@ My creativity, experience and vision are key factors for the success of the proj
 
 As a digital creative, my close relationship with the development team motivated me to learn more about the existing  programming languages and their applications. This with the aim of having a clearer communication with the developers and to understand needs of each project to be developed.
 
-Empecé aprendiendo los lenguajes básicos para el desarrollo web: HTML, CSS y JS; esto me permitió dar instrucciones precisas sobre los requisitos de un sitio web o incluso desarrollar un proyecto de este tipo por mí mismo.
+I started learning the basic languages for web development: HTML, CSS and JS; this allowed me to give precise instructions on the requirements of a website or even develop such a project myself.
 
 Recently, projects related to the blockchain, the crypto economy and non-fungible tokens have led me to learn Solidity for the creation of smart contracts.
 
